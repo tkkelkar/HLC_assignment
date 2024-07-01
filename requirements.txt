@@ -1,0 +1,19 @@
+# API
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-dotenv
+# AI
+openai
+tiktoken
+huggingface_hub
+langchain-core
+langchain-community
+langchain-openai
+sentence_transformers
+langchain_chroma
+pypdf
+langchainhub
+# testing
+pytest
+httpx
